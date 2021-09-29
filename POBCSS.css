@@ -25,7 +25,7 @@ body
 .navbar-expand-lg 
 {
 
-    background: url(../Power%20Ocean%20Band/images/navigation%20bar%20background.png) !important;
+    background: url(../Power-Ocean-Band-Website/images/navigation bar background.png) !important;
     
 }
 .navbar-brand img
@@ -126,7 +126,7 @@ body
 /*--------About------*/
 #about
 {
-    background: url(../Power%20Ocean%20Band/images/beach-1867436_1920.jpg);
+    background: url(../Power-Ocean-Band-website/images/beach-1867436_1920.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -528,7 +528,6 @@ transition: background 0.2s ease-in-out;
 #Tour 
 {
 	
-  background: url(../power ocean band/images/sea with clouds.png);
   width: 100%;
   padding-bottom: -1000px !important;
  
