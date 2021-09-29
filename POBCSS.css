@@ -25,7 +25,7 @@ body
 .navbar-expand-lg 
 {
 
-    background: url(../Power-Ocean-Band-Website/images/navigation bar background.png) !important;
+    background: url(./images/navigation bar background.png) !important;
     
 }
 .navbar-brand img
@@ -126,7 +126,7 @@ body
 /*--------About------*/
 #about
 {
-    background: url(../Power-Ocean-Band-website/images/beach-1867436_1920.jpg);
+    background: url(./images/beach-1867436_1920.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
